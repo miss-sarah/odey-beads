@@ -1,0 +1,84 @@
+.body-page {
+    background-color: rgb(221, 222, 140);
+  }
+
+  .heading {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .align-content {
+    margin-left: 65px;
+  }
+
+  .box1 {
+    position: relative;
+    bottom: 350px;
+    right: 70px;
+    background-color:rgb(255, 255, 128);
+    width: 170px;
+    height: 140px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 100px;
+    border: 2px solid;
+    border-color: rgb(28, 0, 130);
+  }
+
+  .box3 {
+    position: relative;
+    left: 30px;
+    top: 60px;
+    background-color: rgb(255, 100, 242);
+    width: 400px;
+    height: 150px;
+    padding-top: 2px;
+    text-align: center;
+    font-weight: bold;
+    border: 4px solid;
+    border-color: gainsboro;
+  }
+
+  .box4 {
+    position: absolute;
+    left: 820px;
+    top: 180px;
+    background-color: rgb(9, 255, 10);
+    width: 100px;
+    height: 700px;
+    padding-top: 2px;
+    text-align: center;
+    font-weight: bold;
+    border: 7px solid;
+    border-color: black;
+  }
+
+  .box5 {
+    position: absolute;
+    left: 140px;
+    top: 440px;
+    background-color: rgb(238, 179, 130);
+    width: 1210px;
+    height: 130px;
+    padding-top: 2px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid;
+    border-color: rgb(124, 115, 250);
+  }
+
+  .box2 {
+    position: absolute;
+    left: 1140px;
+    top: 95px;
+    background-color:rgb(10, 124, 128);
+    width: 130px;
+    height: 130px;
+    padding-top: 2px;
+    text-align: center;
+    font-weight: bold;
+    border: 4px;
+    border-style: dotted;
+    border-color: CYAN (223, 160, 43);
+  }
