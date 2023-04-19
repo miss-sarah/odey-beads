@@ -6,7 +6,7 @@
 }
 
 .ff-secondary {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Lexend deca', cursive;
 }
 
 .fw-medium {
@@ -239,6 +239,7 @@ background-color:#4CAF50;
 
 
 /*** Youtube Video ***/
+/*
 .video {
     position: relative;
     height: 100%;
@@ -353,7 +354,7 @@ background-color:#4CAF50;
     color: #FFFFFF;
     background: #000000;
     opacity: 1;
-}
+}*/
 
 
 /*** Team ***/
